@@ -1,0 +1,12 @@
+{
+  "name": "ir-example",
+  "version": "1.0.0",
+  "description": "红外客流TCP协议示例",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pwang",
+  "license": "ISC"
+}
